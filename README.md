@@ -6,8 +6,9 @@ It also includes the results of the case study and the ternary mixture validatio
 **Predicting Synergistic and Antagonistic Micellization Effects in Surfactant Blends for Optimized Formulation Design
 Sofía González-Núñez, Carlos Amador, Mariano Martín**
 
-Overview
+---
 
+## Overview
 Surfactant mixtures exhibit complex non-ideal interactions that strongly influence their micellization behavior and formulation performance. Within Regular Solution Theory (RST), these interactions are described through the interaction parameter β, which is traditionally obtained from experimental mixture measurements.
 
 This work introduces a fully computational hybrid framework combining:
