@@ -18,10 +18,18 @@ Multi-objective optimization
 
 to enable the prediction and optimization of surfactant formulations without requiring experimental mixture data.
 
-The repository provides all resources required to reproduce the main results of the study, including:
+- molecular descriptors and data-driven beta prediction
+- thermodynamic CMC blending via RST
+- multi-objective optimization for formulation screening
 
-the curated database of interaction parameters (β)
-subset used for model training its and mordred molecular descriptors
-trained β machine learning model
-ternary mixture validation results
-Case study results
+The workflows allow you to screen surfactant blends, estimate beta from structure, and predict CMC in several units, using only component SMILES.
+
+---
+
+## What is included
+
+- curated beta interaction dataset derived from experimental CMC data
+- Mordred descriptor sets used for model training
+- trained beta model and parameter files
+- ternary-mixture validation outputs
+- case-study outputs and reports
