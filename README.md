@@ -13,17 +13,12 @@ Surfactant mixtures exhibit complex non-ideal interactions that strongly influen
 
 This work introduces a fully computational hybrid framework combining:
 
-- Machine learning models
-- Thermodynamic modeling
-- Multi-objective optimization
-
-to enable the prediction and optimization of surfactant formulations without requiring experimental mixture data.
-
-- molecular descriptors and data-driven beta prediction
+- Data-driven beta prediction
 - thermodynamic CMC blending via RST
 - multi-objective optimization for formulation screening
 
-The workflows allow you to screen surfactant blends, estimate beta from structure, and predict CMC in several units, using only component SMILES.
+to enable the prediction and optimization of surfactant formulations without requiring experimental mixture data.
+
 
 ---
 
