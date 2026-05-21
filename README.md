@@ -13,9 +13,9 @@ Surfactant mixtures exhibit complex non-ideal interactions that strongly influen
 
 This work introduces a fully computational hybrid framework combining:
 
-Machine learning models
-Thermodynamic modeling
-Multi-objective optimization
+- Machine learning models
+- Thermodynamic modeling
+- Multi-objective optimization
 
 to enable the prediction and optimization of surfactant formulations without requiring experimental mixture data.
 
